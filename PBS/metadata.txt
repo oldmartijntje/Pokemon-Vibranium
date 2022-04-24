@@ -32,7 +32,7 @@ ShowArea = false
 MapPosition = 0,13,12
 #-------------------------------
 [005]
-# Route 1
+# Old Route 1
 Outdoor = true
 ShowArea = true
 MapPosition = 0,13,11
@@ -42,4 +42,16 @@ BattleBack = field
 # Kurt's house
 MapPosition = 0,13,11
 #-------------------------------
-
+[022]
+# test town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Environment = Grass
+#-------------------------------
+[033]
+# Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Environment = Grass

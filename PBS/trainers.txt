@@ -117,12 +117,12 @@ Pokemon = CHARIZARD,63
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
 #-------------------------------
-[YOUNGSTER,Mark]
+[LASS,lucy]
 LoseText = "You were just lucky"
 Pokemon = TEPIG,11
 Pokemon = TURTWIG,11
 #-------------------------------
-[YOUNGSTER,Marc]
+[LASS,Lucy]
 LoseText = "Oh."
 Items = MOOMOOMILK
 Pokemon = TEPIG,11
