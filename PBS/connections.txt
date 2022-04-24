@@ -34,9 +34,7 @@
 41,North,0,40,South,0
 # Route 5 (41) - Route 6 (45)
 41,South,6,45,North,0
-# Route 7 (47) - Battle Frontier (52)
-47,East,8,52,West,0
 # Route 8 (69) - Safari Zone (66)
 69,North,0,66,South,10
-# route 1 (33) - test town (22)
-33,1,0,22,0,28
+# test town (22) - route 1 (33)
+22,0,28,33,1,0
