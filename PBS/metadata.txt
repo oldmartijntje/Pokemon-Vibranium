@@ -43,14 +43,14 @@ BattleBack = field
 MapPosition = 0,13,11
 #-------------------------------
 [022]
-# test town
+# GnillyVille
 Outdoor = true
 ShowArea = true
 Bicycle = true
 Environment = Grass
 #-------------------------------
 [033]
-# Route 1
+# Route 601
 Outdoor = true
 ShowArea = true
 Bicycle = true
