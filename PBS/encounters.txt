@@ -48,26 +48,26 @@ LandNight,21
 #-------------------------------
 [022] # test town
 Water,2
-    60,TENTACOOL,14,19
-    30,MANTYKE,15,16
-    10,REMORAID,14,16
+    60,TENTACOOL,7,12
+    30,MANTYKE,8,9
+    10,REMORAID,7,9
 OldRod
-    100,MAGIKARP,16,19
+    100,MAGIKARP,9,12
 GoodRod
-    60,BARBOACH,17,18
-    20,KRABBY,15,16
-    20,SHELLDER,16,19
+    60,BARBOACH,10,11
+    20,KRABBY,8,9
+    20,SHELLDER,9,12
 SuperRod
-    40,CHINCHOU,17,19
-    40,QWILFISH,16,19
-    15,CORSOLA,15,18
-    5,STARYU,15,17
+    40,CHINCHOU,10,12
+    40,QWILFISH,9,12
+    15,CORSOLA,8,11
+    5,STARYU,8,10
 #-------------------------------
 [033] # Route 1
 Land,21
-    40,PIDGEY,11,14
-    40,RATTATA,11,14
-    9,PIDGEY,11,13
-    9,RATTATA,11,13
-    1,PIDGEY,14
-    1,RATTATA,14
+    40,PIDGEY,3,6
+    40,RATTATA,3,7
+    9,PIDGEY,3,6
+    9,RATTATA,3,6
+    1,PIDGEY,7
+    1,RATTATA,8
