@@ -1,16 +1,16 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-# Lappet Town (2) - Route 1 (5)
+# Lappet Town (2) - Old Route 1 (5)
 2,North,0,5,South,4
 # Lappet Town (2) - Safari Zone (66)
 2,West,0,66,East,0
 # Route 8 (69) - Lappet Town (2)
 69,North,12,2,South,0
-# Route 6 (44) - Route 1 (5)
+# Route 6 (44) - Old Route 1 (5)
 44,South,43,5,North,0
-# Safari Zone (66) - Route 1 (5)
+# Safari Zone (66) - Old Route 1 (5)
 66,North,18,5,South,0
-# Cedolan City (7) - Route 1 (5)
+# Cedolan City (7) - Old Route 1 (5)
 7,South,0,5,North,2
 # Cedolan City (7) - Route 6 (44)
 7,West,5,44,East,0
@@ -36,5 +36,7 @@
 41,South,6,45,North,0
 # Route 8 (69) - Safari Zone (66)
 69,North,0,66,South,10
-# test town (22) - route 1 (33)
-22,0,28,33,1,0
+# Vareon Town (48) - Route 601 (33)
+48,West,0,33,East,8
+# Route 601 (33) - GnillyVille (22)
+33,1,0,22,0,28

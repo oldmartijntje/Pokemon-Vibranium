@@ -55,3 +55,11 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 Environment = Grass
+#-------------------------------
+[048]
+# Vareon Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 48,11,11
+Environment = Grass
