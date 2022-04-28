@@ -1,7 +1,7 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [000]
-Home = 3,7,5,8
+Home = 32,5,8,8
 WildBattleBGM = wildBattle.mp3
 TrainerBattleBGM = trainerBattle.mp3
 WildVictoryME = wildVictory.ogg
@@ -48,6 +48,11 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 Environment = Grass
+#-------------------------------
+[032]
+# Our house
+Outdoor = false
+Bicycle = false
 #-------------------------------
 [033]
 # Route 601
