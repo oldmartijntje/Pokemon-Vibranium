@@ -92,21 +92,18 @@ Pokemon = GOLDEEN,11
 #-------------------------------
 [RIVAL1,Blue]
 LoseText = "Not too shabby."
-Pokemon = PIDGEOTTO,17
-Pokemon = RATTATA,15
-Pokemon = BULBASAUR,18
+Pokemon = RATTATA,4
+Pokemon = PANSEAR,7
 #-------------------------------
 [RIVAL1,Blue,1]
 LoseText = "Not too shabby."
-Pokemon = PIDGEOTTO,17
-Pokemon = RATTATA,15
-Pokemon = CHARMANDER,18
+Pokemon = RATTATA,4
+Pokemon = STARYU,7
 #-------------------------------
 [RIVAL1,Blue,2]
 LoseText = "Not too shabby."
-Pokemon = PIDGEOTTO,17
-Pokemon = RATTATA,15
-Pokemon = SQUIRTLE,18
+Pokemon = RATTATA,4
+Pokemon = TURTWIG,7
 #-------------------------------
 [CHAMPION,Blue]
 LoseText = "A good battle indeed!"
@@ -119,11 +116,16 @@ Pokemon = BLASTOISE,63
 #-------------------------------
 [LASS,Lucy]
 LoseText = "You were just lucky"
-Pokemon = TEPIG,11
-Pokemon = TURTWIG,11
+Pokemon = TEPIG,5
+Pokemon = TURTWIG,5
 #-------------------------------
 [LASS,Lucy,1]
 LoseText = "Oh."
 Items = MOOMOOMILK
-Pokemon = TEPIG,11
-Pokemon = TURTWIG,11
+Pokemon = TEPIG,5
+Pokemon = TURTWIG,5
+#-------------------------------
+[LASS,Spikey]
+LoseText = "You were just lucky"
+Pokemon = PICHU_1,5
+Pokemon = PICHU_1,5
