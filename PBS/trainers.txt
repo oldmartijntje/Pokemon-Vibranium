@@ -124,8 +124,4 @@ LoseText = "Oh."
 Items = MOOMOOMILK
 Pokemon = TEPIG,5
 Pokemon = TURTWIG,5
-#-------------------------------
-[LASS,Spikey]
-LoseText = "You were just lucky"
-Pokemon = PICHU_1,5
-Pokemon = PICHU_1,5
+

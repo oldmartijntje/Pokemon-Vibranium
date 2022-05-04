@@ -648,4 +648,8 @@
 633,MEGARING,Mega Ring,Mega Rings,8,0,"This ring contains an untold power that somehow enables Pokémon carrying Mega Stones to Mega Evolve.",0,0,6,
 #-------------------------------
 634,TM101,TM101,TM101s,4,1000,"TA physical attack in which the user charges and slams into the target with its whole body.",3,0,0,TACKLE
-635,MANGA,Manga,Mangas,1,1000,"An anime stiled comic book. It's made in Japan and lot's of people love it.",0,0,0,
+635,MANGA,Manga,Mangas,1,20,"An anime stiled comic book. It's made in Japan and lot's of people love it.",0,0,0,
+636,TV_REMOTE,Remote,Remotes,1,100,"A TV remote, used to turn on TV's and switch channels.",0,0,0,
+637,AA_BATTERY,AA Battery,AA Batteries,1,30,"An AA battery, used in things like TV remotes",0,0,0,
+638,AAA_BATTERY,AAA Battery,AAA Batteries,1,30,"An AAA battery, used in things like headphones",0,0,0,
+639,VOLT9_BATTERY,9 Volt Battery,9 Volt Batteries,1,30,"An 9 Volt battery, used in things like smoke detectors",0,0,0,
