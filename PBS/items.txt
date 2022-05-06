@@ -653,3 +653,5 @@
 637,AA_BATTERY,AA Battery,AA Batteries,1,30,"An AA battery, used in things like TV remotes",0,0,0,
 638,AAA_BATTERY,AAA Battery,AAA Batteries,1,30,"An AAA battery, used in things like headphones",0,0,0,
 639,VOLT9_BATTERY,9 Volt Battery,9 Volt Batteries,1,30,"An 9 Volt battery, used in things like smoke detectors",0,0,0,
+640,BEAN,Bean,Beans,1,0,"Bean. A valuable item for some people, for others 5 HP healing.",1,1,0,
+641,SPADE,Spade,Spades,8,500,"A spade, used to dig things up.",0,0,0,
