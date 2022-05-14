@@ -2,18 +2,33 @@
 #-------------------------------
 [CAMPER,Liam]
 LoseText = "A very good battle, indeed!"
-Pokemon = DIGLETT,10
-Pokemon = BONSLY,11
+Pokemon = DIGLETT,8
+Pokemon = PIDGEY,9
+#-------------------------------
+[CAMPER,Jordan]
+LoseText = "Oui Oui, very good!"
+Pokemon = RATTATA,8
+Pokemon = BONSLY,9
+#-------------------------------
+[CAMPER,Boris]
+LoseText = "Where can I buy a croissant?"
+Pokemon = ONIX,8
+Pokemon = PIDGEY,9
+#-------------------------------
+[CAMPER,Harm]
+LoseText = "Teach me your skills"
+Pokemon = ZUBAT,8
+Pokemon = ONIX,9
 #-------------------------------
 [LEADER_Brock,Brock]
 Items = FULLRESTORE,FULLRESTORE
 LoseText = "Very good."
-Pokemon = GEODUDE,12
+Pokemon = GEODUDE,10
     Gender = male
     Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
     AbilityIndex = 0
     IV = 20,20,20,20,20,20
-Pokemon = ONIX,14
+Pokemon = ONIX,11
     Name = Rocky
     Gender = male
     Shiny = yes

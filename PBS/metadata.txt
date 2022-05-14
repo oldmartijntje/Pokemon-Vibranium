@@ -68,3 +68,14 @@ ShowArea = true
 Bicycle = true
 HealingSpot = 48,11,11
 Environment = Grass
+#-------------------------------
+[082]
+# vareon garden
+Outdoor = true
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
+SnapEdges = true
+BattleBack = 
+MapSize = 0,
+Environment = Grass

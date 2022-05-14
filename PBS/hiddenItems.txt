@@ -3,7 +3,7 @@ in random cabinets and places:
 
 
 in pokeballs:
-635
+635,238
 
 NPC's:
 634, 217
@@ -11,4 +11,4 @@ NPC's:
 story:
 267,
 
-beans: 7
+beans: 8
