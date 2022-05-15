@@ -36,7 +36,9 @@
 41,South,6,45,North,0
 # Route 8 (69) - Safari Zone (66)
 69,North,0,66,South,10
-# Route 601 (33) - GnillyVille (22)
-33,North,1,22,South,0
-# Vareon Town (48) - Route 601 (33)
-48,West,0,33,East,8
+# Route 601 (33) - Vareon Town (48)
+33,East,8,48,West,0
+# Route 602 (83) - Vareon Town (48)
+83,West,0,48,East,10
+# GnillyVille (22) - Route 601 (33)
+22,South,0,33,North,1

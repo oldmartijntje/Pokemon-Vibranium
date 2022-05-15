@@ -46,7 +46,7 @@ LandNight,21
     20,SPINARAK,12,16
     10,CLEFAIRY,11,15
 #-------------------------------
-[022] # test town
+[022] # GnillyVille
 Water,2
     60,TENTACOOL,7,12
     30,MANTYKE,8,9
@@ -63,11 +63,11 @@ SuperRod
     15,CORSOLA,8,11
     5,STARYU,8,10
 #-------------------------------
-[033] # Route 1
+[033] # Route 601
 Land,21
-    40,PIDGEY,3,6
-    40,RATTATA,3,7
-    9,PIDGEY,3,6
-    9,RATTATA,3,6
-    1,PIDGEY,7
-    1,RATTATA,8
+    49,PIDGEY,3,5
+    40,RATTATA,3,5
+    9,RATTATA,3,5
+    1,PIDGEY,6
+    1,RATTATA,6
+

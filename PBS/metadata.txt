@@ -79,3 +79,11 @@ SnapEdges = true
 BattleBack = 
 MapSize = 0,
 Environment = Grass
+#-------------------------------
+[083]
+# Route 602
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+Environment = Grass
