@@ -11,4 +11,8 @@ NPC's:
 story:
 267,
 
-beans: 8
+beans: 10
+
+
+names:
+mark, steven, lennert, cindy, Jeffery, mike, Josh, Daisy, Bert, Henry, jordan, lara

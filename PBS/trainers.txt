@@ -139,4 +139,12 @@ LoseText = "Oh."
 Items = MOOMOOMILK
 Pokemon = TEPIG,5
 Pokemon = TURTWIG,5
-
+#-------------------------------
+[FAWFUL,]
+LoseText = "I say to you WELCOME! Welcome to Fawful's Bean 'n' Badge!"
+Pokemon = ZUBAT,8
+Pokemon = ONIX,9
+[FAWFUL2,]
+LoseText = "I drizzled rage dressing on the country next door. Rage dressing on a salad of evil!"
+Pokemon = ZUBAT,8
+Pokemon = ONIX,9
