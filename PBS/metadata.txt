@@ -87,3 +87,12 @@ ShowArea = true
 Bicycle = true
 BicycleAlways = false
 Environment = Grass
+#-------------------------------
+[085]
+# 602 cave 1
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+SnapEdges = true
+Environment = Cave
