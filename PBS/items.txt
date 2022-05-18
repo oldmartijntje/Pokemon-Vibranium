@@ -656,3 +656,4 @@
 640,BEAN,Bean,Beans,1,0,"Bean. A valuable item for some people, for others 5 HP healing.",1,1,0,
 641,SPADE,Spade,Spades,8,500,"A spade, used to dig things up.",0,0,0,
 642,HM07,HM07,HM07s,4,0,"The user attacks with a punch that can shatter a rock. It may also lower the target's Defense stat.",3,0,0,ROCKSMASH
+643,WALLET,Wallet,Wallets,8,5568,"Someone's wallet full of money, probably around $2500",0,0,0,

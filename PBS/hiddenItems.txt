@@ -3,10 +3,10 @@ in random cabinets and places:
 
 
 in pokeballs:
-635,238,217
+635,238,217,643
 
 NPC's:
-634, 217
+634, 217, 331
 
 story:
 267,
@@ -15,4 +15,6 @@ beans: 10
 
 
 names:
-mark, steven, lennert, cindy, Jeffery, mike, Josh, Daisy, Bert, Henry, jordan, lara
+mark, steven, lennert, cindy, Jeffery, mike, Josh, Daisy, Bert, Henry, jordan, lara, hermoine, Jenny
+
+Story:
