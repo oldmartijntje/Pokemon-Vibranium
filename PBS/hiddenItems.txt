@@ -11,7 +11,7 @@ NPC's:
 story:
 267,
 
-beans: 10
+beans: 15
 
 
 names:
