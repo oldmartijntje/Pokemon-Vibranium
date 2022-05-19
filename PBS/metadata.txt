@@ -96,3 +96,12 @@ Bicycle = false
 BicycleAlways = false
 SnapEdges = true
 Environment = Cave
+#-------------------------------
+[086]
+# 602 cave 2
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+SnapEdges = true
+Environment = Cave
