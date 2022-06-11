@@ -1,107 +1,29 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[000]
+[0]
+StartMoney = 3000
+StartItemStorage = POTION
 Home = 32,5,8,8
+StorageCreator = Bill
 WildBattleBGM = wildBattle.mp3
 TrainerBattleBGM = trainerBattle.mp3
-WildVictoryME = wildVictory.ogg
-TrainerVictoryME = trainerVictory.ogg
-SurfBGM = Surfing.mid
-BicycleBGM = Bicycle.mid
-PlayerA = POKEMONTRAINER_Red,trainer_POKEMONTRAINER_Red,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,boy_fish_offset
-PlayerB = POKEMONTRAINER_Leaf,trainer_POKEMONTRAINER_Leaf,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,girl_fish_offset
+WildVictoryBGM = wildVictory.ogg
+TrainerVictoryBGM = trainerVictory.ogg
+SurfBGM = Surfing
+BicycleBGM = Bicycle
 #-------------------------------
-[001]
-# Intro
+[1]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = trainer_POKEMONTRAINER_Red
+RunCharset = boy_run
+CycleCharset = boy_bike
+SurfCharset = boy_surf
+FishCharset = boy_fish_offset
 #-------------------------------
-[002]
-# Lappet Town
-Outdoor = true
-ShowArea = true
-MapPosition = 0,13,12
-BattleBack = field
-#-------------------------------
-[003]
-# \PN's house
-HealingSpot = 2,8,8
-MapPosition = 0,13,12
-#-------------------------------
-[004]
-# Pokémon Lab
-ShowArea = false
-MapPosition = 0,13,12
-#-------------------------------
-[005]
-# Old Route 1
-Outdoor = true
-ShowArea = true
-MapPosition = 0,13,11
-BattleBack = field
-#-------------------------------
-[006]
-# Kurt's house
-MapPosition = 0,13,11
-#-------------------------------
-[022]
-# GnillyVille
-Outdoor = true
-ShowArea = true
-Bicycle = true
-Environment = Grass
-#-------------------------------
-[032]
-# Our house
-Outdoor = false
-Bicycle = false
-#-------------------------------
-[033]
-# Route 601
-Outdoor = true
-ShowArea = true
-Bicycle = true
-Environment = Grass
-#-------------------------------
-[048]
-# Vareon Town
-Outdoor = true
-ShowArea = true
-Bicycle = true
-HealingSpot = 48,11,11
-Environment = Grass
-#-------------------------------
-[082]
-# vareon garden
-Outdoor = true
-ShowArea = true
-Bicycle = false
-BicycleAlways = false
-SnapEdges = true
-BattleBack = 
-MapSize = 0,
-Environment = Grass
-#-------------------------------
-[083]
-# Route 602
-Outdoor = true
-ShowArea = true
-Bicycle = true
-BicycleAlways = false
-Environment = Grass
-#-------------------------------
-[085]
-# 602 cave 1
-Outdoor = false
-ShowArea = false
-Bicycle = false
-BicycleAlways = false
-SnapEdges = true
-Environment = Cave
-#-------------------------------
-[086]
-# 602 cave 2
-Outdoor = false
-ShowArea = false
-Bicycle = false
-BicycleAlways = false
-SnapEdges = true
-Environment = Cave
+[2]
+TrainerType = POKEMONTRAINER_Leaf
+WalkCharset = trainer_POKEMONTRAINER_Leaf
+RunCharset = girl_run
+CycleCharset = girl_bike
+SurfCharset = girl_surf
+FishCharset = girl_fish_offset
