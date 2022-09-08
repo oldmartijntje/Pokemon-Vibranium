@@ -105,7 +105,7 @@ MapSize = 1,11
 #-------------------------------
 [022]   # GnillyVille
 Name = GnillyVille
-Outdoor = false
+Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,5,6
