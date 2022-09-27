@@ -1,34 +1,25 @@
 # See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[CAMPER,Liam]
-LoseText = "A very good battle, indeed!"
-Pokemon = DIGLETT,8
-Pokemon = PIDGEY,9
-#-------------------------------
-[CAMPER,Jordan]
-LoseText = "Oui Oui, very good!"
-Pokemon = RATTATA,8
-Pokemon = BONSLY,9
-#-------------------------------
+
 [CAMPER,Boris]
 LoseText = "Where can I buy a croissant?"
-Pokemon = ONIX,8
+Pokemon = ONIX,7
 Pokemon = PIDGEY,9
-#-------------------------------
-[CAMPER,Harm]
-LoseText = "Teach me your skills"
-Pokemon = ZUBAT,8
-Pokemon = ONIX,9
 #-------------------------------
 [LEADER_Brock,Brock]
 Items = FULLRESTORE,FULLRESTORE
 LoseText = Very good.
+Pokemon = ONIX,9
+    Gender = male
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    AbilityIndex = 0
+    IV = 20,20,20,20,20,20
 Pokemon = GEODUDE,12
     Gender = male
     Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
     AbilityIndex = 0
     IV = 20,20,20,20,20,20
-Pokemon = ONIX,14
+Pokemon = ONIX,11
     Name = Rocky
     Gender = male
     Shiny = yes
@@ -52,8 +43,8 @@ Pokemon = ELECTABUZZ,20
 #-------------------------------
 [YOUNGSTER,Ben]
 LoseText = Aww, I lost.
-Pokemon = RATTATA,11
-Pokemon = EKANS,11
+Pokemon = RATTATA,6
+Pokemon = EKANS,6
 #-------------------------------
 [CAMPER,Jeff]
 LoseText = A very good battle, indeed!
@@ -107,21 +98,15 @@ Pokemon = GOLDEEN,11
 #-------------------------------
 [RIVAL1,Blue]
 LoseText = Not too shabby.
-Pokemon = PIDGEOTTO,17
-Pokemon = RATTATA,15
-Pokemon = BULBASAUR,18
+Pokemon = CYNDAQUIL,5
 #-------------------------------
 [RIVAL1,Blue,1]
 LoseText = Not too shabby.
-Pokemon = PIDGEOTTO,17
-Pokemon = RATTATA,15
-Pokemon = CHARMANDER,18
+Pokemon = OSHAWOTT,5
 #-------------------------------
 [RIVAL1,Blue,2]
 LoseText = Not too shabby.
-Pokemon = PIDGEOTTO,17
-Pokemon = RATTATA,15
-Pokemon = SQUIRTLE,18
+Pokemon = TURTWIG,5
 #-------------------------------
 [CHAMPION,Blue]
 LoseText = A good battle indeed!
@@ -134,13 +119,13 @@ Pokemon = BLASTOISE,63
 #-------------------------------
 [LASS,Lucy]
 LoseText = "You were just lucky"
-Pokemon = TEPIG,5
+Pokemon = TEPIG,6
 Pokemon = TURTWIG,5
 #-------------------------------
 [LASS,Lucy,1]
 LoseText = "Oh."
 Items = MOOMOOMILK
-Pokemon = TEPIG,5
+Pokemon = TEPIG,6
 Pokemon = TURTWIG,5
 #-------------------------------
 [FAWFUL,]

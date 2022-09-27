@@ -322,8 +322,8 @@ SuperRod
 #-------------------------------
 [033] # Route 601
 Land,21
-    49,PIDGEY,3,5
-    40,RATTATA,3,5
-    9,RATTATA,3,5
-    1,PIDGEY,6
-    1,RATTATA,6
+    49,PIDGEY,3,6
+    40,RATTATA,3,6
+    9,RATTATA,4,7
+    1,PIDGEY,2
+    1,RATTATA,2
