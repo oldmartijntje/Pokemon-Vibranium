@@ -510,3 +510,10 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 Environment = Grass
+#-------------------------------
+[089]   # test
+Name = TestMap
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Environment = Grass
