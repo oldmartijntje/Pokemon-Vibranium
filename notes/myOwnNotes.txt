@@ -1,7 +1,7 @@
 names:
 mark, steven, lennert, cindy, Jeffery, mike, Josh, Daisy, Bert, Henry, jordan, lara, hermoine, Jenny, Bob, Lucas
 
-Beans: 21
+Beans: 22
 
 Get robbed of pokemons > find a new one > get to the one who stole em > battle him > get original team back and current gets placed into your pc
 
