@@ -14,6 +14,7 @@ Random places:
 2: AAA_battery, TV_remote, Redshard, Iceheal, Pokeball, repel, Dawnstone, 2: 9volt_battery
 
 
+
 People:
 9volt_battery, Leftovers, healball
 
