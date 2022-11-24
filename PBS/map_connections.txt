@@ -24,10 +24,18 @@
 21,East,0,23,West,1
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
+# GnillyVille (22) - test (89)
+22,South,0,89,North,41
+# GnillyVille (22) - Route 601 (33)
+22,South,0,33,North,1
 # Route 3 (31) - Lerucean Town (23)
 31,South,32,23,North,0
 # Route 3 (31) - Ingido Plateau (35)
 31,West,0,35,East,10
+# Route 601 (33) - test (89)
+33,West,0,89,East,0
+# Vareon Town (48) - Route 601 (33)
+48,West,0,33,East,8
 # Ingido Plateau (35) - Route 4 (39)
 35,West,11,39,East,0
 # Route 5 (41) - Route 4 (40)
@@ -36,15 +44,9 @@
 41,South,6,45,North,0
 # Route 7 (47) - Battle Frontier (52)
 47,East,8,52,West,0
-# Route 8 (69) - Safari Zone (66)
-69,North,0,66,South,10
-# Route 601 (33) - test (89)
-33,West,0,89,East,0
-# GnillyVille (22) - test (89)
-22,South,0,89,North,41
-# GnillyVille (22) - Route 601 (33)
-22,South,0,33,North,1
-# Vareon Town (48) - Route 601 (33)
-48,West,0,33,East,8
 # Route 602 (83) - Vareon Town (48)
 83,West,0,48,East,10
+# Route 8 (69) - Safari Zone (66)
+69,North,0,66,South,10
+# Hidden garden (99) - Gnovel Town (98)
+99,South,0,98,North,14
