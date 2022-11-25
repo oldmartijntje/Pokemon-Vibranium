@@ -3483,7 +3483,7 @@ BattleUse = OnFoe
 Flags = PokeBall
 Description = A good, high-performance Ball that provides a higher Pokémon catch rate than a standard Poké Ball.
 #-------------------------------
-[POKEBALL] 1r 1p
+[POKEBALL] 1r 2p
 Name = Poké Ball
 NamePlural = Poké Balls
 Pocket = 3

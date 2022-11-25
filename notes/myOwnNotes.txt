@@ -1,12 +1,12 @@
 names:
-mark, steven, lennert, cindy, Jeffery, mike, Josh, Daisy, Bert, Henry, jordan, lara, hermoine, Jenny, Bob, Lucas
+mark, steven, lennert, cindy, Jeffery, mike, Josh, Daisy, Bert, Henry, jordan, lara, hermoine, Jenny, Bob, Lucas, Harm
 
 Beans: 29
 
 Get robbed of pokemons > find a new one > get to the one who stole em > battle him > get original team back and current gets placed into your pc
 
 Pokeballs:
-Dragonscale, Maxrepel, Wallet, Manga, pokeball, sodapop, potion, ESCAPEROPE, REVIVE, ICEHEAL
+Dragonscale, Maxrepel, Wallet, Manga, 2: pokeball, sodapop, potion, ESCAPEROPE, REVIVE, ICEHEAL
 
 
 Random places:
